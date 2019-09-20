@@ -8,3 +8,5 @@ To get started:
 * Clone to your development machine.
 * Launch Unity Hub and Add the cloned repository.
 * Pick up the tutorial at Lesson 1.1 step 4.
+
+Assignments, for Canvas, are in the []() repository.
