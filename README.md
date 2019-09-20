@@ -1,6 +1,6 @@
-# Create-With-Code-Prototype-1
+# Prototype 1: Driving Simulator
 
-Starter assets for Prototype 1 from the Unity Create With Code curriculum.
+Starter assets for Prototype 1 from the Unity [Create With Code](https://learn.unity.com/course/create-with-code) curriculum.
 
 To get started:
 
