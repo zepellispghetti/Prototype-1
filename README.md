@@ -1,4 +1,4 @@
-# Prototype 1: Driving Simulator
+# Prototype 1: Player Control
 
 Starter assets for Prototype 1 from the Unity [Create With Code](https://learn.unity.com/course/create-with-code) curriculum.
 
